@@ -2,7 +2,13 @@
 # telegram-mtproto-php
 
 List of file usage:
+chat_message.php - display chat
+chat_send_message.php - send message
+chat_send_photo.php - send photo
+chat_send_sticker.php - send sticker
+pack_sticker.php - create and pack sticker
 list_user.php - displays a list of members of a group
+login.php - login and create session for telegram
 
 
 =====================
