@@ -1,3 +1,4 @@
+<pre>
 # telegram-mtproto-php
 
 List of file usage:
@@ -15,3 +16,4 @@ ETC	0x310ac05f20b75f175711a9e20d778ff3fa4a4221
 ETH	0x3483a47d0962853a292f88cc008635be15630095
 LTC	LXaz5trQTZ6YMTfvPEi9EhsMb3KLAyCsKo
 XZC	Zzv5V8o5jiygAu85jYihsBNwLykT71isbd
+</pre>
